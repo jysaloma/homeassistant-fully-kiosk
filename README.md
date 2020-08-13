@@ -1,4 +1,4 @@
-# Home Assistant Display Platform
+# Home Assistant Display Platform (Fully kiosk part separated for HACS installation)
 
 ###### With Fully Kiosk Browser Component
 
