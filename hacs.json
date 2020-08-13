@@ -1,0 +1,5 @@
+{
+  "name": "Homeassistant-display Custom Component for Home Assistant",
+  "domains": "display",
+  "iot_class": "local"
+}
