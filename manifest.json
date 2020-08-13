@@ -2,8 +2,7 @@
   "domain": "homeassistant-fully-kiosk",
   "name": "Homeassistant Fully-kiosk",
   "documentation": "https://github.com/daemondazz/homeassistant-displays",
-  "requirements": [
-  ],
+  "requirements": [],
   "dependencies": [],
   "codeowners": [
     "@daemondazz"
