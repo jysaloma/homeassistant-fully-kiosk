@@ -1,5 +1,5 @@
 {
-  "name": "Homeassistant-display Custom Component for Home Assistant",
-  "domains": "display",
+  "name": "Homeassistant-fully-kiosk Custom Component for Home Assistant",
+  "domains": "fully-kiosk",
   "iot_class": "local"
 }
