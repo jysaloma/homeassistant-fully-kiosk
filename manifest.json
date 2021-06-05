@@ -1,7 +1,7 @@
 {
   "domain": "homeassistant-displays",
   "name": "Homeassistant Displays",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "documentation": "https://github.com/daemondazz/homeassistant-displays",
   "requirements": [
   ],
